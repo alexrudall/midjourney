@@ -1,0 +1,47 @@
+---
+http_interactions:
+- request:
+    method: post
+    uri: https://api.midjourneyapi.io/v2/result
+    body:
+      encoding: UTF-8
+      string: '{"taskId":"3830188036095935"}'
+    headers:
+      Content-Type:
+      - application/json
+      Authorization:
+      - "<MIDJOURNEY_API_KEY>"
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Ruby
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Server:
+      - nginx/1.22.0 (Ubuntu)
+      Date:
+      - Sun, 13 Aug 2023 23:22:05 GMT
+      Content-Type:
+      - application/json; charset=utf-8
+      Content-Length:
+      - '36'
+      Connection:
+      - keep-alive
+      X-Powered-By:
+      - Express
+      Access-Control-Allow-Origin:
+      - "*"
+      Midapi-Credits:
+      - '16'
+      Etag:
+      - W/"24-f3S46n3S7NrLfThKF9XtWjcjG6I"
+    body:
+      encoding: UTF-8
+      string: '{"percentage":46,"status":"running"}'
+  recorded_at: Sun, 13 Aug 2023 23:22:05 GMT
+recorded_with: VCR 6.1.0

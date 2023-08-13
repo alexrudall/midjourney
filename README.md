@@ -111,7 +111,7 @@ response = client.result(
         taskId: "abc123",
     })
 puts response["imageURL"]
-# => "https://..........png"
+# => "https://....png"
 ```
 
 ![Ruby](https://i.ibb.co/gWHG7S8/stunning-forest.png)

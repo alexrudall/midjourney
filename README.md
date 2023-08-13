@@ -8,7 +8,7 @@ Use [Midjourney](https://www.midjourney.com/) with Ruby! 🤖🌌
 
 Using [SlashImagine](https://slashimagine.pro/docs) as the API until Midjourney releases their official API (at which point I'll swap it over to that). Please note that this library is unofficial and not affiliated with Midjourney or SlashImagine!
 
-For now you'll need some SlashImagine credits to use this library.
+For now you'll need some [SlashImagine](https://slashimagine.pro/pricing) credits to use this library.
 
 [Ruby AI Builders Discord](https://discord.gg/k4Uc224xVD)
 

@@ -10,7 +10,7 @@ Using [SlashImagine](https://slashimagine.pro/docs) as the API until Midjourney 
 
 For now you'll need some [SlashImagine](https://slashimagine.pro/pricing) credits to use this library.
 
-🚢 Need someone to ship critical Rails features for you, fast? I'm taking on a few new clients at an experimental crazy low price, check it out: [railsai.com](https://railsai.com?utm_source=ruby-openai&utm_medium=readme&utm_id=26072023)
+🚢 Need someone to ship critical Rails features for you, fast? I'm taking on a few new clients at an experimental crazy low price, check it out: [railsai.com](https://railsai.com?utm_source=midjourney&utm_medium=readme&utm_id=26072023)
 
 [🎮 Ruby AI Builders Discord](https://discord.gg/k4Uc224xVD) | [🐦 Twitter](https://twitter.com/alexrudall) | [🤖 OpenAI Gem](https://github.com/alexrudall/ruby-openai) | [🧠 Anthropic Gem](https://github.com/alexrudall/anthropic)
 
